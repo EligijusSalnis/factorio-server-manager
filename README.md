@@ -82,6 +82,11 @@ npm install -g pm2
 
 That’s it! You’re all set to create your first Factorio server.
 
+![Screenshot](screenshots/sc2.png)
+![Screenshot](screenshots/sc1.png)
+
+
+
 ## Credits
 
 Special thanks to [Kiranism's Next.js Shadcn Dashboard Starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) for faster project setup.
