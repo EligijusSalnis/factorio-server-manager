@@ -37,6 +37,7 @@ Before getting started, I highly recommend installing **PM2** for managing the b
 
 ```bash
 npm install -g pm2
+ ```
 ## Backend Setup
 
 1. Clone the repository or download the project files.
@@ -66,21 +67,13 @@ npm install -g pm2
    cd frontend
    ```
 
-2. Create a `.env` file and set the API URL:
-
-   ```bash
-   echo "NEXT_PUBLIC_API_URL=http://localhost:3000" > .env
-   ```
-
-   (By default, the API runs on port 3000.)
-
-3. Install frontend dependencies:
+2. Install frontend dependencies:
 
    ```bash
    npm install
    ```
 
-4. Build and run the frontend:
+3. Build and run the frontend:
 
    ```bash
    npm run build
