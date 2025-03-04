@@ -56,7 +56,7 @@ npm install -g pm2
 4. Start the backend using PM2:
 
    ```bash
-   pm2 start app.js -i max
+   pm2 start index.js -i max
    ```
 
 ## Frontend Setup
