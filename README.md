@@ -23,7 +23,7 @@ This is a Factorio server manager built with **Next.js**, **Node.js**, and **Doc
   - Storage usage
 
 ## Upcoming Features
-
+- Server Upgrade/Edit
 - Mod management
 - Online player count display
 - Frontend improvements
