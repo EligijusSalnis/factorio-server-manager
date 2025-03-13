@@ -2,6 +2,15 @@
 
 This is a Factorio server manager built with **Next.js**, **Node.js**, and **Docker**. It allows you to host multiple Factorio servers simultaneously. I created this project for fun to improve my Docker skills and overall coding knowledge.
 
+## 🚀 Technologies Used
+
+This project is built using modern web technologies to ensure performance, scalability, and maintainability:
+
+- **Frontend**: [Next.js](https://nextjs.org/) with [TypeScript](https://www.typescriptlang.org/) and [Tailwind CSS](https://tailwindcss.com/)
+- **Backend**: [Node.js](https://nodejs.org/) with [Express.js](https://expressjs.com/)
+- **Database**: [SQLite](https://www.sqlite.org/) with [Sequelize](https://sequelize.org/)
+- **Containerization**: [Docker](https://www.docker.com/) 
+
 ## Features
 
 - **Create a Factorio server in a Docker container** with customizable settings:
